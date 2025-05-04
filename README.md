@@ -1,8 +1,8 @@
-# React + Vite
+# REAL-TIME CHAT
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+APPLICATION
+Company: CODTECH IT SOLUTIONS NAME: PAVAN SOLANKI INTERN ID : CT04DA823 DOMAIN : REACT.JS WEB DEVELOPMENT DURATION : 4 WEEKS MENTOR : NEELA SANTOSH
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+OUTPUT:
+![Screenshot 2025-05-04 095842](https://github.com/user-attachments/assets/ca78877e-5b94-4f1a-b9a0-9439a27eeb18)
+![Screenshot 2025-05-04 095830](https://github.com/user-attachments/assets/3a6a04dd-8cd6-4f88-84e1-eb151e660e8f)
